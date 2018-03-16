@@ -3,7 +3,6 @@
   "workspaces": [
     "web",
     "native",
-    "core",
-    "views"
+    "core"
   ]
 }

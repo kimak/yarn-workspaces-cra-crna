@@ -1,7 +1,0 @@
-Test Vertical
-backgroundColor deepskyblue
-margin 50
-onClick props.onClick
-Text
-fontSize 28
-text Hey I'm a button!
